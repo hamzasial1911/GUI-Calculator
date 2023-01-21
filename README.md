@@ -12,9 +12,9 @@ You will need to have Python3 installed on your machine. You can download the la
 
 ## Installing
 
--Clone or download the repository
--Open a terminal and navigate to the project directory
--Run the calculator.py file using python3
+1-Clone or download the repository <br>
+2-Open a terminal and navigate to the project directory <br>
+3-Run the calculator.py file using python3 <br>
 
 ```bash 
 python3 calculator.py
@@ -33,9 +33,9 @@ Your Name - Your Github hamzasial1911
 
 ## Acknowledgments
 
-*Hat tip to anyone whose code was used
-*Inspiration
-*etc
+"*" Hat tip to anyone whose code was used <br>
+"*" Inspiration <br>
+"*" etc <br>
 
 ## License 
 This project is licensed under the ISC license.
