@@ -33,9 +33,9 @@ Your Name - Your Github hamzasial1911
 
 ## Acknowledgments
 
-"*" Hat tip to anyone whose code was used <br>
-"*" Inspiration <br>
-"*" etc <br>
+* Hat tip to anyone whose code was used <br>
+* Inspiration <br>
+* etc <br>
 
 ## License 
 This project is licensed under the ISC license.
